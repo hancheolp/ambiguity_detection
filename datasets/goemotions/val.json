@@ -1,0 +1,1494 @@
+[
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: All those things are definitely your fault. She is much better off without you. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: I haaaaaate vanilla scents and they are a 100% NOPE for me. I wear more neutral/woodsy scents and boyfriend loves it, so win. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: I dont know this one (new or yet another alt) I can't take people seriously when they have a hidden agenda for these questions \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: [NAME] plays a character called [NAME] (but is called [NAME]) , not [NAME]. edit: typo \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: You guys are well behind \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Insulting [NAME] for being captured is good praxis \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: This is so scary but I would love to go there. And it is actually in Brazil \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I just got banned from one of his subreddits, I haven't been this excited for a ban since the snap from /r/thanosdidnothingwrong! \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: You told me it was pointless to point it out. You're the idiot \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Until he goes back to school on Tuesday and all his friends are SO RELIEVED that he\u2019s back safely. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: oh, it's free with prime now, added to watch list. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Jeter been enjoying the Miami nightlife a little too much maybe, dulled his senses.  \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I hope an elk will gore anyone whose still using [NAME] jokes in 2019 \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Well that makes sense. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Demonize - to portray as wicked and threatening. It's not hard to demonize someone when they regularly demonize themselves. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Of course, us first borns gotta stick together. \u2764\ufe0f \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: The must be on the prowl because I've been getting these calls a lot lately. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: They always blab about IQ and other garbage but they have the intelligence of a bag of hammers. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Soon: Mass death of pink-skinned Aussies. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Team Louis is a team, they fight all of us so we can protect our precious baby boy. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Apologies, I take it all back as I\u2019ve just seen his latest effort \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: didn't work anyway \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: The stupid is real \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: It\u2019s a soulless facsimile of what made B movies actually fun. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: [NAME] or [NAME] could be a good trade piece. We don't have to solve every problem in free agency \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Minus the eyebrows I personally think it\u2019s an attractive look. But the fucking eyebrows ruin it all. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Foot fetish people like pretty feet. Those are not. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Bomb on your chest Do not try this at home \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Leave voice and text chats pls. Trash can. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Everyone\u2019s been assuming that\u2019s there problem all week anyways haha \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: hugs back! thank you for writing and being here with me. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I hate this self-defeating bullshit. Yes, of course you can lose weight. Everyone can. Literally everyone. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: He will regret nothing I'm sure \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Its not gonna happen. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Don't chase after out of position teammates. Your life as a Mercy is more important. Let them fools die and learn their lesson. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: The worst is when those moments pop up randomly. Especially when you\u2019re feeling happy and then a mistake you did back in 2005 comes creeping up. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Mate it's been nice the last couple weeks. You're gonna die when a stormy period arrives. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I've been watching too much my 600lb life...I instantly hear dr. [NAME] \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: The Watchmen just moved from Amazon to Netflix. Every time I watch that movie I like it way more. Hope I contributed here. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I need this source with sound \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Sorry about your poor trolling. 3/10. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I was going to put in the post that I wanted to smack her, but here in the comments I'll say, I wanted to smack her.  \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: But why....specifically? \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: \u201cI don\u2019t need no more sisters, I got enough last year\u201d *cut to shocked mid drag faces in the werk room* \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: And they went to therapy. At least they made active steps to work on their problems unlike a lot of other people. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: You don't have to act angry about things that annoy you, though.  \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Watching [NAME] flip his head back every poke of contact is possibly the most frustrating thing to watch \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Well they do have cheap surgery there lol those lucky bastards \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: You didn\u2019t sell that stock did you? I am sorry i hope the company rebounds. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Ha! You're right! I don't know why I assume you were male. Sorry. :) \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Guess there is no benefit for my next car to be any safer considering I haven\u2019t died in my old one then... \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: what a psycho \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: I\u2019m gunna be the bigger man... blessings on your weekend my friend... \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Crash is probably my favorite specialist in this game, you get extra ammo, extra points and occasionally 50hp more from tak-5. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Lmaoo the comment posted 14 hours ago gets doenvoted, but the same exact comment posted one hour ago gets upvoted. What?? \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: I don't know him well but I have met him a few times through a mutual friend. Really nice guy and very young for his age. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Turns out they weren't wrong about [NAME] either \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I rarely get full manic. Lithium just took away my mixed irritable angry episodes and I'm pretty sure those aren't superpowers lol \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I am clueless lately. None of my students parents speak English. It breaks my heart because I want to have more open communication. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: The rest areas and truck stops are booming! \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Nobody has the money to. What a joke \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Saying that men have it more difficult in certain scenarios doesn't mean that men have it easier than women in all circumstances. That's ridiculous. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: I know how you feel :( I hope you start getting more good days soon. <3 \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: It's a cruel, uncaring universe we live in. Fingers crossed things won't completely fall apart for them. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Given my grandpaernts survived the holocaust and told us everything, we have a horrible yet interesting family humour.  \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: >Her obsession with \u201cher man\u201d is weird as shit though. He's jealous. He still cares about [NAME]. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Guys you can\u2019t blame him. They didn\u2019t have basic math when he was in school \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: We have a lovely new bridge in Edmonton that you can jump off if you don't like it :) \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I don't recall saying we didn't - I just don't think we're particularly bad. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Arrg. I never should have let my mother in via SMS. At least it's only SMS. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: We are sorry but the sympathy you are looking for is not available in your region. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Plus of course raging at a system that requires that they consider other people (who might even be the dreaded [NAME] or 'foid') as human beings. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: The staff there know what they're talking about whether or not you're making money, no matter how difficult will be huge. you are not alone. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Seeing the past doesn't mean being in the past \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Good thing the booze wasn\u2019t in the cart yet... bottles to the face! \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Do your research = listen to anecdotal evidence from users(totally reliable!) and try it out, just be comfy! \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Yep, they\u2019re women\u2019s shoes!! \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: That says to me that he believes you are the issue, not his mother. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: I think peach is hotter but not her attitude ha \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: How sad that you think because [NAME] wants something we should no longer want it. Grow up you child. Life does not revolve around you or [NAME]. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: I'll have to think about that one but maybe if you're down\ud83d\ude02 \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I never think someone is sincere when they say why \u201cwould I care if I\u2019m being lied to\u201d constantly? \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Well, its been hours and I was correct. The OPs comment was totally 100% incorrect. Have a great day, thanks for playing. LMAO! \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: This hurts to hear because we know it's true. There are 16 year olds who have experienced more than me. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: You're right! What a nightmare. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Obviously you are! Femboys are always the cutest ~~people~~ furs to meet \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Honestly, I respect [NAME] for doing what he felt was best for business. [NAME] can go fuck himself. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Millennial here. Have a few motorcycles, none of them Harleys. I do not like overpriced, unreliable and bad performing vehicles.  \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Also these people: \"millennials are so desensitised to violence that they have no problem shooting up schools\"  \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Yeah, it\u2019d be weird to have two green arrows running around.  \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: This is why I\u2019m afraid to fly. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I feel like it looked like Ru was well meaning at first but after 10 years we sort of see the formula lol \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Thanks, I hate it. They're out now though. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Interesting. I\u2019m not a troll.But if it makes you feel better... \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: if the pain doesn't go away after 4 hours or so, it's broke. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I can't stand [NAME]. Especially since her \"tatooing my own face\" video.  \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I\u2019m sorry friend. I actually used to be pretty good with this but I\u2019m constantly getting worse. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Unless they\u2019re narcissistic. Then gray rock the hell out of them and good luck! \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Lol it\u2019s one of those right wingers pretending to be a leftist to sow division. They\u2019re pretty bad at it. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Damn, but I\u2019d miss my mother. Then again she\u2019d be all happy in her heaven. The rest of us can party.  \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Is that not implied by continuing to be friends and work with her? \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Anytime I've taken benzo beforecoke, it completely negates any coke feeling \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: is a recent article interesting read. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I was born in \u201898 so I feel like your \u201898 loss is my \u201809 loss. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: True. Here the mistakes has already been made. Please don't mess up for us who are looking for an alternative refuge to Israel. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I hope [NAME] makes a full recovery. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: It's bad enough to break into a house, but snooping and stealing from a friend?! r/trashy r/iamatotalpieceofshit Hope you have better luck with friends in the future! \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: My point was that there is no good vote here. This is legislative battle over wall funding and any given vote makes sense only in that context. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: That's crazy, my brother's cat did the same thing with me last year when I got the flu. She's usually pretty distant \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Here\u2019s to taking care of ourselves and reaching out to each other and getting the support we need! \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: She was walking like that shoe was up her butt at the club. So tacky and just nah. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I love this movie! One of my favorite little touches is the music [NAME] character is listening to \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I agree with the last statement but apparently I'm also bad at matching pokemon to rep :( \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: You're a big guy. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Hopefully you get a good bashing soon \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Hope it works for you OP. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Just not the right year to tank. POOR planning by the FO. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Fake lous! \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I'm full of envy. Would love to be on that sort of money! But I fail to see the problem with it. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: It makes me mad when people steal them lol... chances are if you're nice I'll just *give* it to you \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Apparently, he can't just have sex with anyone because he needed to rape someone. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Yes the achilles gave out and so did my hopes. I miss brandon :( \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: An angry old person yelling at a retail worker will never listen to reason. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Nothing wrong with kayo \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: [NAME] got a serious case of the giggles today. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: >Allow insurance to not pay for treatment of diseases with known vaccinations and to raise rates on antivaxxers *Genius!* \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Fuck this gif \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: I hope there is a special place in Hell for these people. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Gun ownership isn\u2019t a hobby or recreational. It\u2019s a right you\u2019re born with independently of where you\u2019re born. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Sidhu Moose Wala. He's pretty big right now \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Seriously, I\u2019ve never had rendering problems (External SSD) until now... Not even on the PTR \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Because Reddit. The other day I got downvoted because I said I liked The Office lol \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: [NAME] is a 6'5\" [NAME] that can't rebound or defend. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: It could have been worse! All the chairs and table are still upright. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Calm down snowflake. Comment stalking from a week ago is really sad, especially when you're whining about something that I'm 100% right on.  \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Upvoted because [NAME] is a good boi and can\u2019t help it, but tbh it makes me sad to see him struggle like that..! \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Cheers for the reply ;) \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: You are not yet worthy to possess this knowledge. Watch the film and you may be rewarded. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: What in the bipolar hell is going on? Yikes \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: This actually took me a minute. I underestimate the skill and knowledge of people in this subreddit. Very good. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: That\u2019s pretty neat \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Very under rated. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Not with me, no. I\u2019m a true social butterfly  \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Thanks and you too! \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: I love it lol! \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Screw the watch stuff, I wanna hear about the porn \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I did not post this. I really do find it funny tho \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: He\u2019s going to the Bengals at 11 and I hate it so much \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Take a really cold bath before you go to class. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Welcome to Pittsburgh \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: All without a red circle, color me impressed..  \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: The best soft sequel pre-boot spin-off. The movie that would be better as several movies or a tv series. The best outrage over a movie. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Please be careful with pain relievers man, I'm really sorry. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Animal Crossing made my wife into a vicious and abusive murderer. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: They only want excuses to run the clock down towards no-deal. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Yep, usually if it was the other way around she would love both of her cultures. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Thanks, I hate it. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: 100% agree. Double standards are ever present. Young girl is sexualised, the whole world goes nuts, but a young boy is somehow perfectly acceptable. It's disgusting.  \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: as superficially as possible. i cant go deep with a guy, only with girls. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Oh boy you\u2019re really going to trigger the \u201cenlightened centrists\u201d with this contemptuous babbling. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: No matter how loud I talk, no one seems to hear me...  \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Works great until you sit down and burst the banana open. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Like me. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: He'll win you two games in dramatic fashion and quietly lose you 10 by shooting you out of the game. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: As guaranteed me under the terms of the Good Friday Agreement. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Lol what a terrific audience. Maybe rich people saying \"come beg\" is kinda like wtf bro. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: made my first reddit account to downvote this. thanks? \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Pretty sure it\u2019s going on in the apartment across from me right now. My neighbors are trashy \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: [NAME] got bank...he's paying people to count his cash. He's doing fine \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: If they could get a psychologist/therapist maybe they would have a better life. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Best swimmer outta all my siblings \ud83c\udfca\u200d\u2642\ufe0f\ud83c\udfca\u200d\u2642\ufe0f\ud83c\udfca\u200d\u2642\ufe0f\ud83c\udfca\u200d\u2642\ufe0f\ud83d\udcaa\ud83c\udffc \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I will definitely keep this is mind and thank you for the great comment! \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I feel so sorry for [NAME].. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: What a fuckin n \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: \"We've won the AFC less often than you have\" is a weird flex \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I had my skin half ripped off thanks to a belt machine. Never got my arm close to the belts \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Yah he is right, just find it hypocritical. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: This was not on night sight Not OP but also used Pixel 3 to take similar picture from springs with binoculars carefully in line with camera \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Not autism though. What a relief. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Honestly, the fact that they're over and done didn't truly hit me until I saw that they now have a Greatest Hits album. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: [NAME], the \"launch more satellites or threaten to sue [NAME]\" one made me lose it. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: v0.1.2 should have multiple versions, one of which preserves 1RN. Additional info on the linked page. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Morocco sucks, I don\u2019t blame you for not wanting to go \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Think you need more gin with it and you will be alright next time \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I used to use Phillips but I switched to State Farm this year \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: [NAME] and [NAME]. I can't stand them \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Yes, I am 100% superior to [NAME]. If you're not, I'm sorry  \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Love hearing stories like this. [NAME] holy Priests are such a gift. We must always give thanks and pray for them. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: This is unironically the worst trade I've ever seen. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Don't forget proven winner, he is a Stanley Cup Champion and that expertise is priceless.  \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: If I was to get a period, I'd be very relieved indeed. (14 months and counting...) \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Indeed. And good on those that do so. I wish those I've heard complain about what they don't know would be so proactive. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Very, but I also never really liked home to begin with so it's been more of a relief. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: damn it I was holding out for [NAME] to carry the game \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: >I don\u2019t believe in changing the rules and laws however ... Then you believe [RELIGION] is in the 7th century for all times \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: If [NAME] gets the better of [NAME] today, EV should learn not to start [NAME] at RB against pacy attackers m  \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: > Im a milan fan I'm so sorry. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Since [NAME] are technically [NAME]. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: I am going to be so happy when they finally air that scaly foot Dr Pimple Popper episode because I\u2019m tired of seeing it every five minutes. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: I want someone to take me to the hospital \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: i would agree with that. i still dont see a good reason not to provide daycare though. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: >Even though [NAME] quit live performing after he got diagnosed but ok \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: watching [NAME] attempt hook shots gives me a panic attack, even when he makes them (which is rare) \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: oh you. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Epic artist moment \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: [NAME] sure are afraid of brown women. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Being in a 3 person friend group fucking sucks sometimes m8 I feel like the least loved a lot of the time \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Lmao if that's insensitive to you, you'd better stay off the internet.  \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: You've been able to survive going in between tracks on multiple games in the franchise. I've always done it lol \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: FYI\u2026 the [NAME] has these in their kitchen in \u201c That 70s Show.\u201d \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I know, that's why it's a little unfortunate they don't have a test.  \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Glad we aren't all like you , the world would have sucked \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: He wasn\u2019t drafted and is properly rated imo. Had a crazy career for sure. Beat the odds many times \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Hey girl!! East Bay here! \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: i think the telekinesis could make a great card. sth like: move an enemy card to another position and stun its new neighbors for this round. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Im so interested in learning more about the Garrison EU. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: R&M is still a good show but it's fans have driven it to Fortnite levels of annoyance. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Love everything about this city except it\u2019s MLB team \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: I didn't like this, not for even one second.  \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Sounds awesome, but I am so out of practice I'd be embarrassed to show up lol. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Just another prototypical Mavs game... \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Don't be so hard on yourself. Often, things need time. Don't beat yourself up over it.  \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Well fucking said. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: A world where I despise a good number of republicans AND democrats. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I came here to tell you that this wins this sub and I\u2019ll never be able to finish reading it. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: I never understood the real harm until I started reading about childhood emotional neglect and how much it affected me. It's very common with nParents. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Just like demar used to do lol \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: So..... it looks like dude is willing to break his own neck to help a vegan who is choking. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: I completely agree they got fucked on that no call. And I absolutely love it. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Long hair for guys should happen more, it looks cool *and feels nice too* \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Yeah, I understand. Sorry about that, have a nice week! \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Fear of awkward and inconvenient encounters. What can he do to you? \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Ok, just seemed like the original comment was saying *only* tories do it and do it because they're just evil.. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: You miss the sidewalk wing massacres as well I'd bet \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I'm hopeful but going in with tempered expectations. There have been some remasters in which I was really disappointed. BioShock comes to mind. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Don't cope \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: [NAME] about to dip out real quick \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Whoops! My mistake \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Heh, U.S. only has a partial government right now :/ \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: How many shitposts does it take to make me unsub \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: She paid 600 dollars for those boobs \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Shadow of Mordor 3 looks pretty lit \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Yeah. You probably dint [NAME] the cut. Sorry :-( \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I\u2019m sorry than happened to you and your family. Really puts things into perspective.. thank you for the reply !!:) \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: I\u2019m a left-leaning libertarian, and it annoys me that the left won\u2019t have an honest conversation on immigration and border security. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Congrats and good luck moving forward! \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: OK man I am relatively new so I know what worked for me and I based off of much of the advice I got, partially from this reddit lol \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: People will come for your body, stop putting that out there and you will see if they\u2019re friends or not. See who stays for your personality \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: They were tricked. It\u2019s not like those politicians were being honest. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Exactly. Stop talking and let the adults speak u/MeatheadVernacular. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: I am annoyed by autoplay they added on hover - and commercials would make me drop the subscription instantly. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Seeing Capital Cities live so learning to sing Chartreuse out of excitement. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: No! That\u2019s not how I meant it! Just trying to start a conversation & I love Tool. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: The uncanny valley of creepy. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Get [NAME] back on the wing. Looks awful in this position \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: > Same guy that was saying about this time last year that using P2PKH was harmful to Bitcoin and people should use SegWit. Liar \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: No we don't. A small amount is imported into Ontario. The rest of Canada is long or balanced. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: I like you. You're smart, cheeky, and funny. Well played. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Yeah it is not stupid to get heated. I would've told her off too and tell her she's nuts straight to her face. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: They blew him? That's a hell of a deleted scene.... \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Wrong kind of grass seeds? \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Oh shit, that makes a lot of sense, thanks for dumbing it down! \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: isnt that halloween or like easter, man people are weird \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: I know it's easy for me to say because it wasn't me but money is money. We can always make more. Really sorry dude. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Stop opening the pictures. Stop giving her the attention. Go no contact and watch her come running back to you. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Plus [NAME] has won before. [NAME] is a perennial loser. All he has ever done is played on teams that were the worst in the NHL. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: They're cowards. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Ignorance, Illustrated \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Ya like I said. Depends on my tup sitch \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: [NAME], [NAME], or [NAME] imo. But the cap is an issue too. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Hey man skol vikings. Support however you\u2019d like, just as long as you support  \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Id gladly exchange firsts with the Suns \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I'd be so pissed if that was my lunch \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: But they didn't because it's fake. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: You should like a troll. Not saying you are. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Other teams on power plays: relentless shooting at the short-handed team\u2019s goal Blackhawks on power plays: can barely get the puck past the damn blue line \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Very sorry for your loss. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Very nice. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Fly, you fool! \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Pretty sure this is how she'll learn to scream, \"Mom! MOM! MOMMY! MOM!\" \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: *insert [NAME] talnkig about how they will love you but they will hate you, but it's [NAME] instead of [NAME].* \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Don't forget the fort camper. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: I don't think you could actually find something that's *unambiguously* racist. That's just how dog whistles work. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Please don\u2019t marry this man-child. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Noooo not the booze \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I don\u2019t owe you an explanation. I\u2019m at work. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I watch almost every Bears game as I am in that market lol \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Nah, I knock on the door from inside, or the wall, or tap the floor, seems easier \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: ....it\u2019s just raining on my face \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I wish I could help you but I\u2019m in the same ditch as you. High school is causing me troubles too \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: whos the killer \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: lakers bout to get KAT fucked now \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: None that I know of. Any mental health issue needs to be cared for like any other health issue. Doctors and medications can help. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Good for you- take it to the next level! Congratulations \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Cause emotions are difficult and people fear rejection \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: The humidity in Sydney is worse. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I AM LITERALLY FREAKING THE FUCK OUT \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Just watched The Pass on Netflix--really great movie, but not exactly a feel-good time... \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Sorry for your loss; this story is heartwarming. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Boogie Nights is my favorite movie by the way \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Famous for his 3-4 Defense \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Looks eerily like the series of a guy who was unpacked on the street near Star Seeds last night. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Our local ESPN radio will play commercials for games that happened the previous week all the time. So amateur. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: It's not his job to train you. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: I ain\u2019t your pal buddy. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: I thought that, but not quite as extreme!! \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: no, mostly just spurred from mild boredom and thinking of the [NAME] future. Getting a gauge at the caliber of players chosen at #12. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Right now I'm listening to Stand By Me, I'm liking it  \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Anzac day rules are even dumber \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Putting your finger and a loose cloth inside the 3 jaw chuck to polish the inside is insanely dangerous \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: TAKE MY MONEY \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Aw, I missed it :( . I really need to spend more time outside of the roundtable thread... \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I dont know.. i did message him many times but he didnt reply me.. i am worried about him. I asked his mother about him \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: No, though they've been criticised for an alleged anti-gov't bias.  \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: With lots of meaningful communication comes intimacy. With intimacy all things ARE possible. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Looking through the lives of various figures of the New Atheist movement in the social and political change they sought to create and how it stacked up with reality. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I don't care anymore. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: [NAME] I still love my [NAME] family too \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: It sounds like you project a lot of anger...maybe letting things go, relaxing and slowing down is your solution. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I just want to be alone in a cabin up north near flagstaff. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Imagine the baby being retarded \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: \ud83e\udd80MY BABYS DEAD\ud83e\udd80 \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: ... I don't feel like your comment is from an objective point of view... Thanks though. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: No i know, was pointing it out for humor, not for any sort of accusation \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: If they could just let us customize the lines it\u2019d be fine \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Totally forgot that, my bad \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Now go to Gulag!!!! \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Nicely framed. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Better than any HBr, anyway \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: 700 euros per week for 16 hour days 6 -7 days a week is shite and well below minimum wage if you work it out per hour. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Awesome. Never get sick of hearing stories like that \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: \"PPG Paints\" arena or whatever it's called now is worse \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: I'd still try to pet it \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Great tips thank you! \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I hear you, but I'm at this point I'm willing to take risk \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: I teach in [RELIGION] school, too. Gotta love the *just and livable wages* the [RELIGION] Church talks about so much! \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: I sort of did lol. I think what I mean is that you cant look at it as an alternative to rdp \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Yes. She should. Just not President. I've heard people say she should, and she is nowhere near ready for that.  \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Sorry the cognitive dissonance is too much for you. Why don't you go back to listening to Nickelback? It'll make you feel better :) \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: fyi, straight men also use dildos. Also, your mom is awesome! \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Shouldn't have insulted chungus like that, if I see you in the fog you gon get facecamped \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Buff *Nurse*??? Lol, this has to be some god-tier shitpost or something \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: There are quite a number of things we do in modern life that are not sustainable over the short term. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Well, I say good luck to you ! \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: We accept the love we think we deserve - Perks of Being a Wallflower \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: She does it again in last nights episode, it\u2019s so shady!! \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: I didnt really think about having a wife as an object until recently in a bout of frustration induced fantasy. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: \"Yeah but they're not violating *my* rights so it's okay\" \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: france drinks coffe from a bowl. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: This is what I come to this sub for \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: That doesn't answer my question. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Help that damn cat \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Damn, we barley made it out of the Rockets game with a win according to that graph.  \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: you almost blew my fucking mind there. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Well you wrote out this big comment, and it reads well but when you actually think about what you\u2019ve said, IMO it really means nothing. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: A news source putting out sponsored news is inappropriate. Stop reading BBC i guess \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: he's gotta make shots and get to the line...2-6 so far, no ft's \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Except forming an opinion of a topic without even having basic knowledge of said topic makes you sound pretty arrogant and entirely undercuts your opinion. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: There is no evidence connecting him to the crime. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: [NAME], \u201cHow dare you show concern for the wounded!\u201d Made me chuckle. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: The super bowl isnt played in march my man \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Try harder next time <3 \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: Oh! Thank you! \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: This franchise has been breaking my heart longer than you've been alive. Awesome. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: \u201cInside sources\u201d really don\u2019t help the story even if this is true \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: [NAME] just ripped his jersey. He\u2019s frustrated as hell right now \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: [NAME] are you me? Like I was relating and then you said rot in Atlanta traffic and the pains of 285 burned into my mind. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Just a joke post on how someone will go through blah blah blah and come out on top. \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: I feel you. Most look generic af. I've seen some absolutely stunning ones though. Like [NAME]. She's a 10/10 IMO. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Input text: Arizona in the summer is fine. Arizona in the winter when all the blue hair snowbirds come is absolutely horrifying. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "What is the sentiment of the following text?\nText: Bore off, you pearl-clutching, centerist coward.  \nTypes: positive, negative, neutral \nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Input text: Thank you for that :) I'm not OP but I am really happy to read your comment. \nHow would this input text be described in terms of sentiment?\nOptions: positive, negative, neutral \nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Classify the following text into one of the following three categories:\nInput: When he read \"don lemon still has a job\" as an example of racial stupidity... I fucking fell out of my chair. LMAO. Love it. \nCategories: positive, negative, neutral \nAnswer:",
+		"label": 1
+	}
+]

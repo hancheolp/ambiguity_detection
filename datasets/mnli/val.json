@@ -1,0 +1,1922 @@
+[
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Look for the servant girl hurtled into hell for flirting with the devil. \nHypothesis: As punishment for consorting with Satan, the servant girl was flung into hell. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: The CEO and CFO's vision was to make Pfizer  the preeminent corporate finance organization in the industry. \nHypothesis: Pfizer will look to become the worst car dealership in northern Montana under the CEO's leadership. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A girl in a black sweater and jeans pours water into an empty soda bottle. \nHypothesis: Someone pours water into a bottle \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A young boy wearing a red shirt runs along a gravel road. \nHypothesis: A child is chasing a car. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: We briefly discussed the Nazi angle \nHypothesis: We looked for more evidence about the Nazi angle. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: It's all right. \nHypothesis: Everything is a disaster. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A woman with red-hair staples some papers \nHypothesis: A red-haired woman is working on the computer. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A man in an orange jacket reaches under a busted up blue car on wooden supports. \nHypothesis: A man is repairing a car. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A man in a green shirt and large beige hat is supervising a newsstand that sells snacks and drinks. \nHypothesis: the woman is white \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A boy wearing a yellow shirt, khaki pants, and blue and yellow shoes is hitting a tennis ball off a wall with a tennis racket. \nHypothesis: A child in a colorful outfit, holds a piece of sporting equipment and uses it to propel an orb against a vertical surface. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: oh yeah all all mine are uh purebreds so i keep them in \nHypothesis: all of mine are poodles \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A woman with a blue hat is taking photos in an area covered in brush. \nHypothesis: The woman is photographing a wedding. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: uh-huh well it's good that she does that i mean bring it to people's attention \nHypothesis: She never brought anything to anyone's attention.   \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Conversely, an increase in government saving adds to the supply of resources available for investment and may put downward pressure on interest rates. \nHypothesis: Upward pressure is put on interest rates when government saving is increased. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Given the limits on the WTO's jurisdiction, it was probably unreasonable of Kodak to expect a real victory. \nHypothesis: It likely was irrational for Kodak to look forward to a true victory. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A man draws a caricature of a woman. \nHypothesis: A man drawing a caricature of his wife. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Three men in yellow green safety vests sit on a bench yawning, smoking and having a break. \nHypothesis: Some guys are taking a rest from working. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Take a picnic and enjoy an alfresco lunch at this spectacular spot. \nHypothesis: This spot is a great place to have a picnic. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: That first glimpse of the towering, steepled abbey rising from the sea on its rock is a moment you will not forget. \nHypothesis: The abbey is not of great height and lacks a steeple. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A bare-chested man fitting his head and arm into a toilet seat ring while spectators watch in a city. \nHypothesis: A gentleman with no chest hair, wrangles his way through a toilet seat. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: She will step down from the court in December 2002. \nHypothesis: She's going to step down from the court in the winter of 2020. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Don't expect to be swinging much after midnight, even in towns. \nHypothesis: Don't expect things to be open after midnight. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Black professionals braid their hair to display their ethnic pride. \nHypothesis: Blacks proudly braid their hair. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: two male's in a karate class, one who is in the air with a blue and orange belt and one who is about to get kicked in the face. \nHypothesis: two people do jump kicks \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A group of people are in a rowboat in the ocean surrounded by seagulls. \nHypothesis: A bunch of people are in a wooden object on the water. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: There are actually three winding roads, or the Grande, the high road, starting out from the Avenue des Diables-Bleus in Nice; the Moyenne, the middle one, beginning at Place Max-Barel; and the Basse, along the coast from Boulevard Carnot, but usually jammed with traffic. \nHypothesis: The Basse is a busy, winding road that runs along the coast. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: It was here in 1952 that King Farouk signed his abdication before boarding his yacht for exile in Italy. \nHypothesis: King Farouk was exiled to France in 1952, after signing his resignation. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: a young couple both wearing white shirts and blue jeans standing in a light misty rain \nHypothesis: A couple hang out on the beach. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Divers can explore the deeps but you can also snorkel here, or take a glass-bottom boat or submarine tour to get a glimpse of this watery world. \nHypothesis: You can snorkel here or take glass-bottomed boat tours.   \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A boy wearing a yellow shirt, khaki pants, and blue and yellow shoes is hitting a tennis ball off a wall with a tennis racket. \nHypothesis: Two women in a bright red sports car, with sunglasses and pink lipstick, laugh and sing songs. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: This church choir sings to the masses as they sing joyous songs from the book at a church. \nHypothesis: The church has cracks in the ceiling. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Two gondola operators sit along a road in Italy. \nHypothesis: The gondola operators are in the water, pushing their boats. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: In 1099, under their leaders Godfrey de Bouillon and Tancred, the Crusaders captured the Holy City for Christendom by slaughtering both Muslims and Jews. \nHypothesis: The Crusaders captured the Holy City and killed 100,000 Muslims. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Blair has just published a volume of speeches and articles titled New Britain : My \nHypothesis: Blair recently published an assortment of speeches. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: 3) The gap between the productivity of women and the productivity of men. \nHypothesis: The gender productivity gap. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Hang it all! said Tommy indignantly. \nHypothesis: Tommy happily declared to hang nothing. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: and then you can add cocoa powder to it to make chocolate or after it's thickened i cook it for a good once it starts boiling i just i cook it for a good seven minutes \nHypothesis: I like to make the cocoa and then drink it with whipped cream. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A woman and two men, that are dressed professionally, are having a discussion. \nHypothesis: A woman and two men are negotiating a threesome. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: They are built on the site of David's Tower, once the largest and most formidable structure in the castle. \nHypothesis: There is nothing where David's Tower used to be. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: To get a wonderful view of the whole stretch of river, and to stretch your legs in a beautiful parklike setting, climb up to the Ceteau de Marqueyssac and its jardins suspendus (hanging gardens). \nHypothesis: The whole river can be seen from the hanging gardens. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: 'I saw him get aboard myself. \nHypothesis: I watched him get on the train at 7pm \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: two little girls dancing on the floor \nHypothesis: Two kids happily jiving on the dance floor. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A girl in a purple top, baggy pants and sneakers is blowing a kiss, while another girl in black watches. \nHypothesis: A girl is blowing a kiss to a boy while someone watches. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise:  8th circa b.c.Greeks colonize Sicily and other southern regions \nHypothesis: Sicily and other southern regions were colonized in the 8th century b.c. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Brown and cream dog with tongue out in front of grassy forest \nHypothesis: The dog is lying on the ground. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: We'll be the first to admit we make mistakes, but most of those are bureaucratic. \nHypothesis: We never make mistakes. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Programs in Michigan and the District of Columbia received one-year grant terms for 2002. \nHypothesis: The one-year grant terms are paid out in cash.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A bicycle rider wearing racing gear pedals a yellow bike past the wire fence at the edge of a field, with a stand of trees in the background. \nHypothesis: A bike rider wearing racing gear pedals a bike past the fence. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A man visiting a friend in the hospital. \nHypothesis: A man and a patient in a hospital room. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: now you know the ball'll go straight and i go  i never broke a club or anything but you know i'd get upset about it sometimes and now i guess you know being in my forties i just kind of mellowed out a little bit i don't get upset any more so \nHypothesis: I still get upset when I don't perform well. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: An old woman and a young man examine their bingo cards. \nHypothesis: A woman and man are checking their bingo cards to see if they won \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: The red motocross bike and its rider are airborne above the trees. \nHypothesis: A red motocross bike is being taken over a jump by a rider, while performing a trick. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A group of people in a room, most with computers, some raising their hands. \nHypothesis: Some people have questions. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Team member 39 waiting for the puck to come his way. \nHypothesis: An ice hockey player waits to make his move. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A woman in a black leather shirt trench-coat and black leather calf-high boots and carrying a colorful bag with a shoulder strap faces away from the camera with a yellow post visible just in front of her. \nHypothesis: A lady in black leather trench coat, with matching black leather boots walks away from the camera in her front with her bag strapped to her shoulders \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: much with whatever it's with the Black the Black problem or whatever that may be now \nHypothesis: There is no Black problem at all. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A man in a striped shirt standing behind a large pile of fruits. \nHypothesis: a man stands in front of a small banana pile \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: There is uncertainty associated with all of the numbers presented in this paper due to sampling error and estimation error in econometric estimation procedure used to recover household-level demand functions \nHypothesis: Instead of sampling humans for this data, researchers sampled pet rocks. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: yeah maybe the maybe they'll bring their good schools with them  you know if the industry comes \nHypothesis: If the industry comes, they probably bring bad schools with them. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Cop  Bud White (Crowe) and Ed Exley (Pearce) almost mix it up (59 seconds) : \nHypothesis: Bud White has been a cop for 4 years. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A youth skateboards by a mural of a griffin wielding a flaming sword. \nHypothesis: A youth bikes by a mural. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A lady in a blue and white tube top takes her own picture with a disposable camera while another lady with a bag flashes a piece sign in the background. \nHypothesis: A lady is taking pictures at a party. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Four human figures are backlit by a sunset. \nHypothesis: Four men are sitting in the shade under the bright glare of the sun \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: As a counterweight to the Singapore Chinese, he would bring in the North Borneo states of Sabah and Sarawak, granting them special privileges for their indigenous populations and funds for the development of their backward economies. \nHypothesis: The states of Sabah and Sarawak were granted special privileges for their indigenous populations. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Man on bike with female standing on rear of back with arms around his neck. \nHypothesis: There are two people near a bike. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: So he goes out and walks in the woods, little dreaming that Mrs. Inglethorp will open his desk, and discover the incriminating document.  \nHypothesis: Taking his dog with him, he walks into the woods. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A group walking in the middle of a walkway with a green divider, and a woman is walking by herself off to the right. \nHypothesis: The woman is walking away from the group. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: The Fray's reputation as a home for hostile, rude, and mean-spirited exchanges suffered a severe beating at the hands of the Reading thread, which was so civilized that participants suggested taking insulin shots afterward. \nHypothesis: The Fray is known as a hostile, rude, and mean place. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: actually i think abortion's going to take a turn where there's not going to be as many because i think contraceptives are going to be more popular i mean i realize that they are popular now but i think \nHypothesis: I believe that the rising popularity of contraceptives will push the abortion rate down. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: yeah i've always threatened to take lessons but i've never gotten around to it \nHypothesis: I have never gotten around to taking lessons. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: The Illinois Equal Justice Foundation has recently made its first grants from money appropriated by the Illinois General Assembly. \nHypothesis: The Illinois Equal Justice Foundation just received money from the Illinois General Assembly. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: a dog about to jump to catch a Frisbee \nHypothesis: The dog is outside. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: We should seek to achieve the most good or benefit, with the least harm and destruction of things that we value, he argued. \nHypothesis: He argued that we should recklessly destroy all the things that we care the most about. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: People shopping for vegetables at an outdoor market. \nHypothesis: People shopping for veggies and fruit at a market. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Woman wearing green pants, blue jacket and sunhat carrying food in baskets that are hung over her shoulder. \nHypothesis: They fight over the food they bought \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A young boy in a hoodie climbs a red slide sitting on a red and green checkered background. \nHypothesis: A red slide on the patio is next to a small swing set. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: I lay awake waiting until I judged it must be about two o'clock in the morning. \nHypothesis: I fell asleep before midnight and didn't wake up until six in the morning.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: and ancient coins \nHypothesis: And really old coins. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: To see the desert at its best, go out at dawn and at sunset. \nHypothesis: Go at noon to see the desert for the best view. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A girl with black pants on is lowering a camera onto the running track. \nHypothesis: A camera is being lowered onto a running track by a girl in black pants and yellow t shirt \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Two women are laughing and smiling while they eat a meal together. \nHypothesis: The boys had sandwiches. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: This usage points to yadda yadda yadda 's larger social  It suggests that an ever-larger percentage of the content of everyday communication can be correctly anticipated--probably owing in part to the sheer repetition of words and arguments in the various public media. \nHypothesis: It says a bigger percentage of the content of communication can be expected. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A young male wearing a blue hat turned backwards and slightly sideways with a cigarette in his mouth. \nHypothesis: A man is wearing a hat. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: When people are late, it makes it hard to keep things working in a rational fashion. \nHypothesis: It doesn't matter at what time do people arrive. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: They are all quotations from the Old Testament Book of Aunt Ruth. \nHypothesis: Every one of them is quotations from the Old Testament. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: The man looked at the girl. \nHypothesis: The girl was the man's daughter.  \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: It displays some superb marble sculptures of the second century a.d. , most notably a Venus and the Emperor Hadrian and his wife Sabina. \nHypothesis: Sabina was the second wife of Emperor Hadrian. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A group of people standing around smiling, and in the background are more people and handmade signs. \nHypothesis: There are a few unhappy people here. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A young girl with her bike. \nHypothesis: The little girl is going to ride her bike. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Once they know their Social Security benefits promised under current law, workers can calculate how much they can expect from employer-sponsored pension plans and how much they need to save on their own for retirement. \nHypothesis: Employer sponsored pension plans give workers money so that they can save for retirement. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Pearl Jam detractors still can't stand singer Eddie  They say he's unbearably self-important and limits the group's appeal by refusing to sell out and make videos. \nHypothesis: Some people are annoyed by the singer from Pearl Jam. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A surfer is performing a jumping stunt in the ocean. \nHypothesis: A person in the water. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: yeah i it just totally ridiculous i mean the Israeli's could have fixed the whole problem years ago if they just sent sent their guys in there and killed Saddam \nHypothesis: They Israelis didn't do it because they knew they could save money getting the States to do it. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A person belted into a bungee-jumping ride in midair. \nHypothesis: A person is thrown gleefully screaming into the air by a bungee-jumping ride \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: But when the cushion is spent in a year or two, or when the next recession arrives, the disintermediating voters will find themselves playing the roles of budget analysts and tax wonks. \nHypothesis: The cushion will likely be spent in under two years. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A woman in a white and red basketball uniform with the number fifteen on her chest prepares to shoot a free throw. \nHypothesis: A woman in a white and yellow baseball uniform with the number fifteen on her chest prepares to shoot a free throw. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: well in a way you can travel light \nHypothesis: You have to travel heavy.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: The Celts arrived in the wake of the Roman withdrawal at the end of the fourth century. \nHypothesis: At the end of the fourth century was when baked goods flourished. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: oh that's not really important the the other stuff is just you know window dressing because we we've never ordered anything fact the the van that we've got we bought uh from an estate it was an estate trade uh it was almost brand new the the gentlemen who owned it had died \nHypothesis: Our van was obtained through an estate trade after its owner had died. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: 2466, discusses the four collections, which include certification of a minimum number of installed and operating microwave links and the maintenance of a computer-readable database. \nHypothesis: 2466 discusses 3 collections. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Two dogs are digging under a large rock with their bottoms to the camera. \nHypothesis: Dogs are digging a hole. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A man sitting on steps with a child as a bystander walks by. \nHypothesis: A man and a child sitting on steps saw a woman walk by. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A dog with a collar on lying on the street. \nHypothesis: The dog is standing on two legs. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Yet Mrs. Inglethorp ordered a fire!  \nHypothesis: No one asked for a fire. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: and i'm pretty happy with it so far \nHypothesis: I don't like it.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Those Creole men and women you'll see dancing it properly have been moving their hips and knees that way since childhood. \nHypothesis: It is very difficult to learn the dance as an adult. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A man is playing drums with a band. \nHypothesis: A man is singing with a band. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: To some critics, the mystery isn't, as Harris suggests, how women throughout history have exploited their sexual power over men, but how pimps like him have come away with the profit. \nHypothesis: All the critics agree with Harris' viewpoints on women's sexuality. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A man wearing a blue lab coat, safety glasses, and gloves is working at a small machine with a large computer screen. \nHypothesis: The man is doing science. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: However, SCR installations designed to comply with the NOX SIP Call are generally already into the installation process or, at a minimum, into the engineering phase of the project. \nHypothesis: SCR installs have NOX SIP to comply with. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Workers wearing orange vests work on fence. \nHypothesis: Men working to build a fence for customers. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: First, injected cannabinoids may not mirror the effects of smoked marijuana. \nHypothesis: Smoking marijuana gets people higher than injected them with cannabinoids. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A bearded man wearing a blue shirt and white t-shirt is working on a fishing net. \nHypothesis: Someone is preparing to catch fish. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: The Commission published a summary of its Final Regulatory Flexibility Analysis in the Federal Register on September 12, 1996 (61 Fed. \nHypothesis: The Commission did not publish its Final Regulatory Flexibility Analysis in 1996. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: 6 cents are used for domestic investment. \nHypothesis: 30 cents are used to invest domestically. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Cheerleaders in blue performing on a football field underneath a yellow football goal post. \nHypothesis: A group of people dance outdoors. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: The rise of the British Empire in India had begun. \nHypothesis: It started the rise of the British Empire in India in 1910. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Two girls playing catch on a lawn \nHypothesis: Sisters are tossing a frisbee back and forth in the park. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Along with the latest technology, the prime minister's office has a superb Bossi marble fireplace, as well as a fine display of art and crafts. \nHypothesis: The Bossi marble fireplace was designed in Italy. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: The chain swung again, hitting her arm and sending the palm knife into the crowd. \nHypothesis: The chain hit the woman's arm. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Two men are assisting a small girl in a harness. \nHypothesis: The men tying the girl up. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: It may be that the best way to read this text in the years ahead will not be with a magnifying glass, but through the looking glass--as a prism to discern what the political culture that produced Nixon shares with our own. \nHypothesis: Many things are shared between the Nixon culture and our own \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A male baseball player for the baseball team The Indians prepares to catch a ball. \nHypothesis: The male baseball player belongs to the Cleveland Indians. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A group of people watching a boy getting interviewed by a man. \nHypothesis: A group of people listen carefully to a boy being interviewed. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Six older women are standing in a row at a table smiling and looking trough books and other material displayed on the table. \nHypothesis: Books are strewn on a table as women look through them. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A student in a green shirt is writing in a notebook. \nHypothesis: A person at the movies \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A woman carrying a large package on her head walks in front of a building plastered with Portuguese posters advertising a concert. \nHypothesis: A woman walks outdoors. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Two men outside of a restaurant. \nHypothesis: Two men are sitting on the restaurant patio. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: In our family we have two sons in public life. \nHypothesis: Our family has two sons in the public eye.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A man waiting in an airport terminal writes on a piece of paper as others are seen behind. \nHypothesis: A man scribbles indoors. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Artists install a new exhibit in a gallery. \nHypothesis: People put up new art at the towns local gallery. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A fresh access of pain seized the unfortunate old lady.  \nHypothesis: The old lady was in pain. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Colorful rings spraying water at little girl wearing swimsuit. \nHypothesis: The child is playing. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A dog jumping over a beam \nHypothesis: An animal is outdoors. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: They aren't breaking any promises if they decide to take their ball and go home. \nHypothesis: If they go home they aren't breaking promises. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: From Port-Louis all the way down Grande Terre's west coast to Pointe Pitre there extend vast mangrove swamps. \nHypothesis: Grande Terre's west coast is a major tourist destination for its mangrove swamps. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A dog jumps to catch a red ball outside. \nHypothesis: the dog likes to play catch. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Indian men selling food items on the sidewalk \nHypothesis: Men are buying food on the sidewalk. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Favorite items that will help preserve your memories of the rugged Lakeland countryside are clothing or blankets made from the local Herdwick wool, coasters of polished slate, or walking sticks with ram's-horn handles. \nHypothesis: Favorite items can make you remember the countryside. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Twenty five people are marching. \nHypothesis: A marching crowd goes down the street. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: and we decided we'd just go across the road to the office and see if we could rent anything \nHypothesis: We went to the office to see if there was anything we could rent. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: uh uh yeah that well um the older you get the more convenience you try to bring with you i guess so i'm up to dragging the trailer around which is my next step is going to be probably Winnebago i hope if i only can afford one but that \nHypothesis: The older you get, the more you want conveniences. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Older men and women dancing in front of a stage, a man in a white hat twirling a woman in a red flower print skirt and white shirt. \nHypothesis: People put on a show. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: yeah well that's not really immigration \nHypothesis: That is not immigration. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Sainte-Anne itself has a long, broad beach used not only by fishermen in vividly painted boats, but also by families with small children. \nHypothesis: Only fishermen and their boats can be seen lining the beaches of Sainte-Anne. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: i don't even know how they figure it really i'm glad i don't work in a store \nHypothesis: I'm happy that I don't work in a store. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Perhaps all we can say of great acting is that it involves assimilation rather than accumulation, that the performer isn't so much a surrogate as a vessel. \nHypothesis: Great actors can assimilate themselves into their roles. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Five young men are in a loft, with one holding a whiteboard and one making a shaka sign in front of the television. \nHypothesis: Some people are at work. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A man and woman in formal attire are standing in a high grass meadow, posing for the photographer, and she has two of her fingers up on one hand behind his head. \nHypothesis: A couple enjoying some alone time. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: One of the city's attractions is the shopping center around the Place Darcy and Rue de la Libert??, where you can hunt for such regional delicacies as the famous mustards; pain d'??pices (gingerbread); and cassis, the blackcurrant liqueur that turns an ordinary white wine into a deliciously refreshing kir. \nHypothesis: There is nowhere to shop in the city. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A biker with a blue jacket, black pants, and white helmet driving on dirt while people watch. \nHypothesis: A race car driver is doing laps in front of other people. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: a brown and black attack dog being trained by a man holding a stick \nHypothesis: A blind man is attempting to train his dog to ward against intruders. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: a young man wearing dark sunglasses smiling \nHypothesis: A man wearing glasses in smiling at a concert. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Ca'daan felt his skin get hot and unable to come up with any suitable response, moved on. \nHypothesis: Ca'daan was freezing! \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A young woman with red-hair is adjusting a blue bracelet on an older woman with short hair. \nHypothesis: A redhead is putting a bracelet on an old woman. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: batter hits a baseball \nHypothesis: A man at home plate hits a baseball with the bat. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A golden dog bounds across the snow-covered hill. \nHypothesis: A golden car bounds across the snow-covered highway. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: The doctor accepted quite readily the theory that Mrs. Vandemeyer had accidentally taken an overdose of chloral. \nHypothesis: Mrs. Vandemeyer took an appropriate does of chloral. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A birthday party for many little people to enjoy. \nHypothesis: Children are running down the street. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: HCFA published a Notice of Proposed Rulemaking on March 28, 1997 (62 Fed. \nHypothesis: HCFA decided to keep it a secret when they proposed rules. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Two people play horseshoes. \nHypothesis: Tom and Sue were playing outside. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Three girls blow out the candles of a cake made of Peeps. \nHypothesis: There are peeps in the garden. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: yeah well the uh NC double A tournament's going on right now and uh i haven't watched it this year because Louisville's out of it this year \nHypothesis: I haven't watched the NCAA tournament this year. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: In Mumbai, both Juhu and Chowpatty beaches are, for instance, definitely a bad idea, and though the Marina beaches in Chennai are cleaner, there may be sharks. \nHypothesis: The beaches in Mumbai are a bad idea. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A man in a red shirt is learning how to climb a cliff. \nHypothesis: A man is playing videogames. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: H-2A agricultural workers are required to maintain a foreign residence which they have no intention of abandoning. \nHypothesis: These residences must be verified in person by local authorities before a visa is granted. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: In a still faintly Victorian atmosphere, Dinard has preserved all the best assets of a good luxury villas and long, paved promenades, plush hotels, elegant boutiques, discothyques, casino, parks and gardens, and an Olympic-size public swimming pool. \nHypothesis: Dinard does not have a public swimming pool. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: that your approach is is is right you can actually go out and sub it if even if you don't wanna get hands on you can even just sub it out the concrete and those kind of things and and that's kind of the plan i have so um uh everyone i talk to uh i've \nHypothesis: You can not ever sub it. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: um well i hate to yes i do \nHypothesis: I hate to. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: This popular show spawned the aquatic show at the Bellagio. \nHypothesis: Bellagio's water display was born from this well received show. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A boy in a yellow shirt running by some birds. \nHypothesis: The boy is outside. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: The analyses comply with the informational requirements of the sections including the classes of small entities subject to the rule and alternatives considered to reduce the burden on the small entities. \nHypothesis: There is no need for the analyses to attempt to meet any informational requirements. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: oh i enjoyed it i mean it was just more for my money \nHypothesis: I didn't like it and it was too expensive. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A woman is posing in a meadow next to an old truck. \nHypothesis: A woman is getting her picture taken near a truck. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: We can leave them and let them die, said Thorn. \nHypothesis: Thorn told us we could leave them to die.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: oh thank God i've never been to Midland \nHypothesis: I go to Midland every other weekend.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Many people standing outside of a place talking to each other in front of a building that has a sign that says \"HI-POINTE.\" \nHypothesis: The group of people aren't inide of the building. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: On 4 5 May a mass of mud and rocks was swept down by Pelee's White River (Riviyre Blanche) over a factory, killing 25 people. \nHypothesis: The mud and rocks stayed put. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Additional information is provided to help managers incorporate the standards into their daily operations. \nHypothesis: Managers can better apply the standards to their operations by reading the additional information. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Three people in uniform are outdoors and are observing a scene which is out of the picture. \nHypothesis: Uniformed people are outside \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: TIG funds support the Technology Evaluation Project, an initiative of the Legal Aid Society of Cincinnati. \nHypothesis: The Technology Evolution project was founded in 1992. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A man wearing an orange shirt and sunglasses jogging in a marathon with spectators spectating him. \nHypothesis: A man competes in a long distance run. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Britain's best-selling tabloid, the Sun , announced as a front-page world exclusive Friday that Texan model Jerry Hall has started divorce proceedings against aging rock star Mick Jagger at the High Court in London. \nHypothesis: The Sun makes millions every year off fake news. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A man and a woman are dancing in the crowd. \nHypothesis: a couple dances among other people \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Baby in running in over-sized flip-flops. \nHypothesis: A young boy is playing with a basketball. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A little dark-haired girl runs on the beach. \nHypothesis: The dark haired girl is running away from a wave. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Two little boys are playing on stairs that have a carpet runner going down them. \nHypothesis: The children are playing together. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: 67 through .67d, provide a mechanism for limiting the issues on which a trial-type hearing is required; allow the Postal Service to explain the unavailability of data that would otherwise have to be filed; and provide for data collection for the duration of the experiment. \nHypothesis: 67 through .67d does not provide mechanism for limiting issue on which trial-type hearing is required allowing postal service to explain unavailability of the data. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Two separate, exhaustive shots posted simultaneously? \nHypothesis: Both of the extensive, individual shots are being posted at the same time? \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Four boys are about to be hit by an approaching wave. \nHypothesis: A giant wave is about to crash on some boys. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: That is well.  \nHypothesis: That is very well, but I don't know. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: All the steps of data reduction and coding are described, along with the basis for transformations in these steps. \nHypothesis: There were 12 steps in the data reduction. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A large crowd is standing around the start line. \nHypothesis: A lot of people are in a race \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A group of children divided into a maroon team and a blue team playing a soccer game. \nHypothesis: Some children are playing soccer by a school. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Finally, the FDA will conduct workshops, issue guidance manuals and videotapes, and hold teleconferences to aid small entities in complying with the rule. \nHypothesis: The FDA is set to conduct workshops.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: The flight attendant dressed in yellow demonstrates life vest usage. \nHypothesis: A flight attendant is standing in front of passengers. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: The activities included in the Unified Agenda are, in general, those expected to have a regulatory action within the next 12 months, although agencies may include activities with an even longer time frame. \nHypothesis: Regulatory actions can take place within any of the next 12 months. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Two dirt bikers- one in black and red, sporting number 64, the other in blue and white displaying a red \"21\"- round the corner of a tree-lined track. \nHypothesis: There are two people and two motorbikes in this picture. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: but how do you know  the good from the bad \nHypothesis: But how do you separate good from bad? \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: It's easy to overdose on the many temples, palaces, and museums in India. \nHypothesis: Many temples and palaces are free to visit in the country. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A young boy is playing in the sandy water. \nHypothesis: The boy is playing at the beach. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: 'You burned down my house.' \nHypothesis: 'You used matches and gasoline to commit arson.' \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: i think that the people that are um have um a lower income which you automatically equate with lower education \nHypothesis: I think lower income and lower education are related. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A young man in a heavy brown winter coat stands in front of a blue railing with his arms spread. \nHypothesis: The young man is at his grandmothers house. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Female in a military uniform with her hair tied back. \nHypothesis: the female is wearing a ponytail \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: well i meant when when you were when you were growing up i mean like Galveston \nHypothesis: You grew up in Galveston and I grew up in Dallas. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A man with a paddle stands next to a woman with a bikini top; and her arms are in a dance pose. \nHypothesis: a guy paddles for his wife \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A chef explains different varieties of Tomatoes to consumers. \nHypothesis: He knows a lot about tomatos. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A train conductor in coveralls is standing in the door of the trail. \nHypothesis: A train conductor is standing in a door. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: from generation to generation (Michiko Kakutani, the New York Times ). A few, like Pearl K. Bell in the Wall Street Journal , find a surfeit of sweetly obedient docility in the novel and say parts are perilously at the edge of sentimentality. \nHypothesis: Some readers may find the novel to have sentimental parts. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A birthday party for many little people to enjoy. \nHypothesis: Children enjoying a birthday party. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A contract that provides for a firm price or in \nHypothesis: A firm price is established in the contract. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Two girls pose along a tree-lined path and blow kisses towards the camera. \nHypothesis: Two girls are taking pictures outside. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A passenger wearing a life jacket prepares to take a picture of a whale very close to the boat. \nHypothesis: A man is taking a picture of a school of whales in Hawaii. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Each caters to a specific crowd, so hunt around until you find the one right for you. \nHypothesis: You may have to search a bit before you find one that works for you. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A man in a white shirt and baseball hat is pushing a cart carrying several bags on a street. \nHypothesis: A man is carrying a bunch of kittens. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Enter the realm of shopping malls, where everything you're looking for is available without moving your car. \nHypothesis: Everything in a mall is available without the necessity of moving your car. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: he's a college graduate type guy he's been in all he's an entrepreneur and he gives very practical financial advice about cars very you know not not nothing college level basic stuff his name is Bruce Williams he's on national radio uh i don't know what it would be down there you might want to whatever your radio talk shows are down there he's on that channel it's uh it's five seventy up here \nHypothesis: the entrepreneur gives people financial advice about real estate, but he doesn't know anything about cars \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Sun Ra's spaceships did not come, as it were, out of nowhere. \nHypothesis: The spaceships did not come out of nowhere but they were welcome. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A man in a suit speaking to a seated woman. \nHypothesis: A dark headed man in a suit speaking to a seated woman. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: People hurrying to get to work in a busy city. \nHypothesis: People waiting at a bus stop. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Here is a picture of a man waiting for the bus to pick him up and he is hiding his face. \nHypothesis: The man doesn't want to be seen. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: it's like but the time we went to Florida and needed to rent a car you know he believed in it \nHypothesis: We once went to Florida and needed to rent a car. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A man in a blue jacket standing at a table with his back to the camera. \nHypothesis: the child was 18 years old \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: The Standard , published a few days before Deng's death, covers similar territory. \nHypothesis: The Standard covers similar territory about minorities. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Tracking down the tiger is a subtle affair, and requires a degree of dedication, calm, and stealth. \nHypothesis: Searching for tigers requires great skill. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Even though national saving remains relatively low by U.S. historical standards, economic growth in recent years has been high because more and better investments were made. \nHypothesis: Americans only save 1% of their income. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: There is a woman in a white tank top and camouflage pants with a big black belt on a stage holding a microphone. \nHypothesis: A woman is getting ready to perform a song for the audience. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Several street vehicles pass by a traditional architecture style of Thailand. \nHypothesis: Vehicles are going down a street in Thailand. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: 7) Nonautomated First-Class and Standard-A mailers have the option of requesting that their mail be processed manually, even though the costs for such processing are substantially higher than mechanized processing. \nHypothesis: Nonautomated First-Class and Standard-A mailers cannot ask for their mail to be processed by hand because it costs the postal service more. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: They capitalized on the natural resources by using the salt to cure fish, which they exported to their home country. \nHypothesis: They used salt to cure fish and sent it back home.  \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: There is a group of children getting their picture taken with presents. \nHypothesis: Children opening presents. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: One man wearing a pink and blue striped shirt, work gloves, and holding a yellow hard hat. \nHypothesis: A person in a shirt \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A boy in a blue shirt plays in a jumping tent. \nHypothesis: Rent your own bouncy house today \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: so we've been out here well really in the house since December and we've been uh planting flowers that we could never plant in San Antonio uh \nHypothesis: This is the best place to plant flowers. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A profile crowns Chris Rock The Funniest Man in America. \nHypothesis: A profile denounces Chris Rock and his comedy. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: The tomb of Job Charnock, the Company official who founded the city of Caletta, is in the church cemetery. \nHypothesis: The tomb of Job Charnock is in the church cemetery. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Here is a picture of people getting drunk at a house party. \nHypothesis: Some people are by the side of a swimming pool partying. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: It looks like quite a sweaty, smelly dog pile over one little rugby ball, but the boys in blue seem to want it more. \nHypothesis: A little boy looks disgusted that is ball is dirty \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A young woman cooks a meal in a wok while conversing with another woman, as an illuminated shrine to Mr. T looks on. \nHypothesis: A young woman stands near a stove. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Elderly people walking down a city street. \nHypothesis: The Elderly people are crossing the crosswalk. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A baby with a green bottom and red top lying in bed with a brown and white cat and also a black and white cat. \nHypothesis: The baby sits on the cats. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: If he were someone who was an assistant, with an ailing mother to support, well, it would be impossible. \nHypothesis: It would not be possible if he was an assistant with a sick mom.  \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Control activities occur at all levels and functions of the entity. \nHypothesis: Control activities happen everywhere in the entity.  \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: The baker was not jolly. \nHypothesis: The baker wasn't very cheerful because he was sick. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Young shirtless man and asian woman jump up from a shallow rock at the shore with boats moored in the background \nHypothesis: The boats jumped up from a shallow rock. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Two identical brown dogs side by side holding something white in both their mouths. \nHypothesis: Two twin pups holding onto the same bone. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Also in Eustace Street is an information office and a cultural center for children, The Ark . \nHypothesis: The Ark is located in Eustace Street, and is a cultural center for kids. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Yet, despite the stock market boom of the 1990s, many households have accumulated little, if any, wealth (see figure 1.3), and half of American households did not own stocks as of 1998. \nHypothesis: The stock market boom of the 1990s led to explosive wealth accumulation in most households. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: and the nurses aren't no see you have to pay that \nHypothesis: You have to pay for that if social security won't cover it. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: I should think some one had taken charge of it.\" \nHypothesis: No one should have taken charge of it. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: and we decided we'd just go across the road to the office and see if we could rent anything \nHypothesis: We decided not to go to the office across the road. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: yeah that's the World League \nHypothesis: That's the World League that you can join. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: This person looks to be snowboarding on a very small pile of snow on a sunny cold day. \nHypothesis: Young snowboarder sizing up their next jump \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: but i've lived up here all my life and i'm fifty eight years old so i i could \nHypothesis: I have moved somewhere else in my life. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A small child is giving heavy metal signs \nHypothesis: A child pretending his hand is a bull. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A woman with a black and white dress on is carrying a green plastic laundry basket in front of an apartment building. \nHypothesis: The woman is doing laundry. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Finally, the Administration strongly opposes including reductions for CO2 in S. 556 or any multi-pollutant bill. \nHypothesis: Any multi-pollutant bill is opposed by the Administration, that means people will be happy about that. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: There is a roller coaster up there as well, but experienced riders consider it too slow and uneventful despite the altitude. \nHypothesis: Experienced riders think that the roller coaster is too fast and scary. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: uh-huh oh yeah all the people for right uh life or something \nHypothesis: all the people for the right life exercise on a regular basis \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Two men are in blue life jackets and sitting on innertubes with \"Crusher\" written on them in the middle of a body of water. \nHypothesis: Two men sit on innertubes in the middle of a body of water. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A man pointing into the ear wearing a striped shirt in a small boat filled with many people. \nHypothesis: A man is pointing into the ear and wearing a light striped shirt. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: However, the specific approaches to executing those principles tended to differ among the various sectors. \nHypothesis: Specific approaches to each principle is different in each sector. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: We are assured of success?\" \nHypothesis: \"Are we definitely going to be successful?\" \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A man playing a large stringed instrument on the street. \nHypothesis: There is a man entertaining outdoors. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Boys with their backs against an incoming wave. \nHypothesis: A group of people play in the ocean. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: yeah and i'll do this uh sometimes i'll put my after I pour that into my back into my saucepan i'll put the eggs in the same dish and beat them up and then pour the cornstarch and the milk mixture in the egg so \nHypothesis: I never use eggs when I cook, I hate them. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: The young girl is swinging on a swing, and her hair is flying out behind her. \nHypothesis: A girl is playing outside on a swing. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Several people are laying on the floor sleeping covered by blankets. \nHypothesis: A group of people rest \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: It hopes to bring on another 25 or 35 people when the new building opens next fall. \nHypothesis: They are set to demolish the building in the fall.  \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: We're going to try something different this morning, said Jon. \nHypothesis: Jon thought everything should stay the way it was. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Sports team members practice and relax on a basketball court. \nHypothesis: Team members were practicing on a basketball court while large crowd watched. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: I found her leaning against the bannisters, deadly pale.  \nHypothesis: She looked very vibrant as she stood next to the banister. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A woman with brown hair wearing a white shirt is standing in a doorway surrounded by baskets as a woman in a red shirt passes by. \nHypothesis: The woman is wearing a skirt. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: I feel, though, that I should like to point out to you once more the risks you are running, especially if you pursue the course you indicate. \nHypothesis: The risks in the situation outweigh the rewards in my opinion. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A boy in a gray and yellow jacket is raising his hand in front of others sitting around him. \nHypothesis: A boy is dancing for his friends. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A guy with piercings, tattoos and a mohawk is looking at the camera while lounging in a chair. \nHypothesis: A male model with a mohawk, tattoos, and piercings strikes a lazy pose in a lounge chair for the camera. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Also, Time claims that for the past year, the FBI has been seeking Robert Jacques, a possible accomplice to Timothy McVeigh in the Oklahoma City bombing. \nHypothesis: Everyone knows McVeigh acted alone. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: i agree with you but did you see the map they drew up on uh on how they were gonna divide up the districts \nHypothesis: They didn't draw anything. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: that's neat just supervised more or less than anything and security i guess for them \nHypothesis: There was no supervision. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: This makes it incumbent on the government to create incentives to recruit new employees and retain older employees. \nHypothesis: The government needs to create incentives to get and retain employees.   \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A grim looking man with sunglasses pilots a boat. \nHypothesis: The hungover man drives his boat to work. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: skateboarder sliding down a ramp \nHypothesis: A skateboarder is taking pictures of himself with his phone. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: An older gentleman looks at the camera while he is building a deck. \nHypothesis: An older gentleman in overalls looks at the camera while he is building a stained red deck in front of a house. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: They copied Louis XIV's centralized administration and tax-collection, and by the 18th century Turin was a sparkling royal capital built, quite unlike any other Italian city, in classical French manner. \nHypothesis: Turin has never collected taxes or had a collectivized power. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: With him was the evil-looking Number 14. \nHypothesis: Number 14 was with him. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Three children hold a boy's arms down while another boy in a hat shoots a water gun at him. \nHypothesis: The boy holds down his laughing nephew as his sister sprays him with water. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: The tip was hooked towards the edge, the same way the tips are hammered for knives used for slaughter. \nHypothesis: The tips were made of a hard material. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Six people appearing to be planting something in the ground. \nHypothesis: People are digging up the earth \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: An entertainers reaches out to his audience during a performance. \nHypothesis: A man juggling flaming torches. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A golfer shoots his ball out of a sand trap. \nHypothesis: A duffer hits to the green using a sand wedge. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A young woman dressed up semi-formally is reading book and drinking in the sun, seated on a bench. \nHypothesis: A young woman reads near the ocean. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Off El Hurriya Street you'll find the Neo-Classical facade of the Greco-Roman Museum with a fine collection of both Roman, Greek, and Ptolemaic artifacts found around the city and under the waters of the harbor, along with many ancient Egyptian pieces. \nHypothesis: Interestingly enough, every item is a vampire ward and keeps the vampires at bay. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A man with a white beard speaks into a microphone wearing a long-sleeved gray button down shirt. \nHypothesis: A man is speaking to a crowd. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A woman, standing behind a girl, helping the girl with an experiment. \nHypothesis: A mother is helping her child complete the experiment. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: How did this man know? \nHypothesis: The man's wife told him something. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Three men dressed in white shirts and white hats, (two with baseball caps, the leader with a white construction helmet), pounding sticks on steel and plastic drums. \nHypothesis: Three brothers pound on some drums \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Possibly, but strychnine is a fairly rapid drug in its action.  \nHypothesis: Strychnine  is a drug that works very quickly.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A shirtless man with a white hat and no shoes sitting crisscross with his back against the wall holding up a white plastic cup. \nHypothesis: A woman is walking \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: right well the warmth that developed between them and again it i think was a picture of relationships \nHypothesis: They got married after a while. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A man in a blue collared t-shirt posing at someone while holding a hebrew newspaper. \nHypothesis: He is reading the newspaper. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: The track continues past the necropolis to an impressive amphitheatre, very probably carved by Nabateans, but influenced by the Romans. \nHypothesis: The path leads to an amphitheater that was influenced by Romans.   \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Using a threestep development planning process, managers assess their current capabilities, determine their specific development needs, and build and execute a development plan. \nHypothesis: Managers asssess their current capabilites by using a threestep development planning process. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Apparently, Greuze wasn't worried about needing protection. \nHypothesis: Greuze had invincible armor so he didn't worry about needing protection. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A young man in a gray shirt hovers over his beer bottle and Guinness glass pulling green things out of his beard. \nHypothesis: The man holding the beer and beer glass manages to pull the green pieces from of his beard. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Upon commencement of commercial operation of each new utility unit under subpart 1 of part B, the unit shall comply with the requirements of subsection (a)(1). \nHypothesis: subsection a1 need also me complied with other a variety of different conditions. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A small child is riding in a red wagon. \nHypothesis: A kid is playing inside the house. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: hm oh is oh that's great uh-huh do you get the full benefits \nHypothesis: That's wonderful.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Workers wearing orange vests work on fence. \nHypothesis: Guy sitting on fence. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: It has served as a fortress for the Gallo-Romans, the Visigoths, Franks, and medieval French (you can see the layers of their masonry in the ramparts). \nHypothesis: Various people have used it as a fortress, as can be seen from the layers of masonry. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A lady with blue jeans and a brown shirt is speaking on her cellphone on the second floor of the mall. \nHypothesis: the lady is shpping \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A man with thinning hair looking into glasses through glasses. \nHypothesis: A man with glasses is looking at drinking glasses. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: His grandson Akbar chose Agra for his capital over Delhi. \nHypothesis: His grandson chose Agra for the capital, not Delhi. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A man and two kids standing in front of an ancient building. \nHypothesis: A man is standing with his sons. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Progressives at last are noticing that the best argument for government activism is that it works. \nHypothesis: Progressives are just now realizing that the best way to argue government activism is that it has proven to be very successful, although this isn't the only part of the argument progressives are noticing. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Woman smiling while holding a book and yellow paper star. \nHypothesis: the woman reading book in the hall \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: I should put it this way.  \nHypothesis: I'm not explaining i. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Two workers with leaf blowers blow orange leaves off patches of grass next to a wet sidewalk. \nHypothesis: Two workers blowing leaves on a fall day \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Its facilities include a swimming pool and a peaceful garden. \nHypothesis: The indoor swimming pool is 25 meters long. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Never mind that the movie had been out for months and that a Best Supporting Actor Oscar nomination had already been awarded for the portrayal of the female character. \nHypothesis: the movie had been out for months \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Built in a.d. 688 691, it is decorated in thousands of exquisite, predominantly blue and yellow, Persian ceramic tiles, with Koranic scriptures on the lintels. \nHypothesis: Numerous elegant blue and yellow ceramic tiles of Persian origin embellish it. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A golden dog bounds across the snow-covered hill. \nHypothesis: A golden animal bounds across the snow-covered plateau. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Among runners-up is Boston solo Eleanor Newhoff. \nHypothesis: Boston solo Eleanor Newhoff won. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A bare-chested man fitting his head and arm into a toilet seat ring while spectators watch in a city. \nHypothesis: A man does magic tricks. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Two butchers are walking through their shop. \nHypothesis: Two workers are preforming their jobs. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Further, given the dynamic environment agencies face, employees need incentives, training, and support to help them continually learn and adapt. \nHypothesis: Welbeck's CEO told the committee it was necessary to ensure employees were trained, prepared and compensated in ways that enabled them to react to shifting markets. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: He watched San'doro silent in his thoughts. \nHypothesis: San'doro was watched as he left the village. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: and uh it that takes so much time away from your kids \nHypothesis: Takes you away from your kids because it is more important to you. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Girl in a red coat, blue head wrap and jeans is making a snow angel. \nHypothesis: A girl in a red coat makes a snow angel for the first time. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: While the Freedom of Information Act, the Trade Secrets Act, and other statutes may generally protect certain categories of information from disclosure by an agency to the public, this protection does not justify withholding the information from GAO. \nHypothesis: The Freedom of Information Act wants all people to share all information with each other, no matter what.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: The South African priest who invited Clinton to do so is quoted in the paper as saying that once Clinton stood up, he was thinking about how much embarrassment it would have caused him by my saying, please sit down. \nHypothesis: A South African priest once invited Clinton to do so in quoted paper.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A guy on Rollerblades, sliding across a rail. \nHypothesis: The skateboarder rides the rail. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: I feel that you probably underestimate the danger, and therefore warn you again that I can promise you no protection. \nHypothesis: I warn you again, that I can promise you no protection, as I feel that you probably underestimate the danger. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A woman in a blue uniform, with long curly red-hair, looking at her horse before the race. \nHypothesis: The horse has four legs \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A group of people are walking by a van. \nHypothesis: Some people outdoors. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A young child joyfully pulls colorful tissue paper from a decorated box, looking for his present. \nHypothesis: a child opens a present on his birthday \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A woman wearing a striped wrap is bent over in a cornfield while looking at the camera. \nHypothesis: A woman wearing a striped wrap and a hat is bent over in a cornfield while looking at the camera. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Even as more people are accumulating balances through employer-sponsored 401(k) saving plans and individual retirement accounts, personal saving-which does not reflect gains on existing assets-has declined. \nHypothesis: People aren't dedicated enough to grow their own savings. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: a girl wearing pink pulls weeds. \nHypothesis: The girl is gardening. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: I'm busy now. \nHypothesis: I won't be busy later if you still need help. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Sainte-Anne itself has a long, broad beach used not only by fishermen in vividly painted boats, but also by families with small children. \nHypothesis: The families attending the beach of Sainte-Anne commonly purchase seafood meals from the fishermen as they return with their catch. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A man laying down in middle of street during heavy traffic. \nHypothesis: The traffic made a guy fall asleep. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Two young boys playing with ducks near the water. \nHypothesis: Two young friends play with ducks \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A man stands by a load of boxes near a pizza restaurant. \nHypothesis: A man stands near a load of boxes on fire. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Visit at sundown or out of season to get the full flavor of the setting. \nHypothesis: Visit mid day in tourist season to fully understand. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Fira is a shopper's paradise, a series of narrow alleys where you can wander free from the fear of traffic, although keep your eyes and ears open for donkeys. \nHypothesis: There is no traffic in Fira, but there are donkeys. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Against his own advice, Ca'daan dared to stare off the edge once as they neared the end. \nHypothesis: He was looking off the edge to see how far the drop was. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Yes, sir. \nHypothesis: Certainly. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: The pope, suggesting that Gen. \nHypothesis: The Pope is making a suggestion. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: It has long been influenced by their differing traits, and has assimilated their various customs and practices. \nHypothesis: Their different traits have had no impact on any cultures. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A woman sits in a market where she sells goods with her dog. \nHypothesis: A woman sells her wares in a busy market. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: but uh these guys were actually on the road uh two thousand miles from from home when they had to file their uh their final exams and send them in \nHypothesis: These men were two thousand miles from home when they filed their final exams. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A biker races. \nHypothesis: The biker loses the race \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Many women trying out and looking at laptops in a Walmart. \nHypothesis: Women are shopping for Dell Computers. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A woman is observing pictures on a camera. \nHypothesis: A women purchasing a new camera from the store. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: oh for heaven sakes for the drugs yeah uh-huh \nHypothesis: For drugs. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Family gathered together in a house enjoying each other company. \nHypothesis: A family is enjoying a night at home. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: An Indian traveler described the prosperous Bujang Valley settlement as  the seat of all felicities.   \nHypothesis: A traveler said the settlement was prospering.  \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: It is also sometimes called simply Beaubourg, after the 13th-century neighborhood that surrounds it. \nHypothesis: It is sometimes referred to be the name of the surrounding neighborhood. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Sexy young men stand on a balcony having a heated conversation. \nHypothesis: Young men went out on the balcony to argue in private. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Total volume grew 13. \nHypothesis: There was an increase in volume of 13. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: It is one of those rare cases in which I can please everyone. \nHypothesis: It's one of those situations where I end up making everyone unhappy. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Well, we will come in and interview the brave Dorcas.\" Dorcas was standing in the boudoir, her hands folded in front of her, and her grey hair rose in stiff waves under her white cap.  \nHypothesis: Dorcas will be asked questions and is brave with Grey hair.  \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: This man is working with an I-pad. \nHypothesis: the man is typing a paper \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: [Requires free registration. \nHypothesis: Registration is only one of the requirements.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Marilyn Manson is darker, more serious, and more vicious than Alice Cooper was. \nHypothesis: Marilyn Manson and Alice Cooper are some of the nicest people around. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Windows 95 costs about $90 at my local computer superstore. \nHypothesis: Windows 95 is no longer sold. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A man with a paddle stands next to a woman with a bikini top; and her arms are in a dance pose. \nHypothesis: someone dances while a man holds a paddle \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: But there's John \u201dand Miss Howard, surely they were speaking the truth?\" \nHypothesis: I'm sure Miss Howard is lying to us. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Its scorecard included measures for accuracy, speed and timeliness, unit cost, customer satisfaction, and employee development and satisfaction. \nHypothesis: Accuracy and speed were included measurements on the scorecard. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A man with a gray beard and a little boy are sitting on the floor looking over some papers in a room with a bunk bed. \nHypothesis: The man and boy are in a bedroom. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: and uh i know what nothing is when i moved out there \nHypothesis: I found out what plenty was when I moved there. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A lady in the kitchen cleaning her feet on a chopping board with a red towel, or red apron, with her husband standing there. \nHypothesis: A lady cleans her feet for a fetish video. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: She was a very good mistress to me, sir. \nHypothesis: She was a good mistress.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: He celebrated the fact by announcing that the capital would be moved from Calcutta to a whole new city to be built in Delhi. \nHypothesis: Citizens were thrilled about the new capital city.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Older men sitting in front of a cafe looking out at the street. \nHypothesis: Older men sitting at a cafe \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: NHTSA noted that the only other possible interpretation of section 330 was to treat the phrase standards promulgated . . . prior to the enactment of this section as \nHypothesis: It all happened after the enactment of this section as \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A black man in a long sleeves white collared shirt and a tie is walking to work in a big city. \nHypothesis: The man is wearing work attire and is walking to his job. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Two men wearing red jackets are looking out over some water and one man has yellow earphones on his ears. \nHypothesis: Some men wearing red winter jackets are looking over a lake and listening to music. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A group of men and women are sitting at a table eating and drinking. \nHypothesis: A group of men and women are sitting at a table eating and drinking for a birthday party. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Workers wearing orange vests work on fence. \nHypothesis: Guys working outside. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Two girls are sitting on a park bench one is looking at her phone and the other is looking on. \nHypothesis: The girl is browsing her phone while another girl watches her. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Moreover, these excise taxes, like other taxes, are determined through the exercise of the power of the Government to compel payment. \nHypothesis: Government's ability to force payment is how excise taxes are calculated. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A man in an argyle shirt bends down to look at the goodies through the glass in an Asian shop. \nHypothesis: The adult is shopping for a gift. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Several people browse through books at a store with a tile floor. \nHypothesis: There are a lot of people looking for a certain book at the local Barnes and Noble. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Many people have decided to take a rest on the steps. \nHypothesis: The people are on the famous steps Rocky runs up in a training montage. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A child with curly blond-hair looks at another child with long brown hair while sitting on a bench. \nHypothesis: Two kids are sitting next to each other. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A basketball player in white in red goes up for the shot as two defensive men in red jump up to block the shot. \nHypothesis: The basketball player on the white team makes the basket. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Cityscape with four men on bikes serving as the focal point of picture. \nHypothesis: Enjoy the town on foot or by bike. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Many people gathered in a room with several people on stage with instruments and the words \"The Early November\" on the wall. \nHypothesis: People leave as the concert is decides to charge per note \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A woman plays in the wind, with a furry brown dog. \nHypothesis: A woman is playing with her dog. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Two boys, surrounded by paper pieces, hold a third boys shirt to prevent him from grabbing a bag. \nHypothesis: Two boys have paper and another boy is grabbing a bag. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A shirtless man with a white hat and no shoes sitting crisscross with his back against the wall holding up a white plastic cup. \nHypothesis: A man is waiting for someone \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: The vineyards hug the gentle slopes between the Vosges and the Rhine Valley along a single narrow 120-km (75-mile) strip that stretches from Marlenheim, just west of Strasbourg, down to Thann, outside Mulhouse. \nHypothesis: There are vineyards all along the slopes between the Vosges and Rhine Valley. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A woman lying in the grass in the park is wearing a red top and black capri pants and is barefoot. \nHypothesis: A woman is taking a break and lying in the grass. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A young woman talks on the phone and carries her bags while walking past some hats on display. \nHypothesis: A woman walks through a store talking on her phone. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Woman wearing green pants, blue jacket and sunhat carrying food in baskets that are hung over her shoulder. \nHypothesis: They walk along carrying a bounty of food \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Politician John McCain on a talk show. \nHypothesis: John McCain is hosting a talk show. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Accusations of corruption among officials in Rao's administration in 1995 also paved the way for a comeback. \nHypothesis: People accused Rao officials of corruption, which led to a comeback. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: His vigorous strides soon enabled him to gain upon them, and by the time he, in his turn, reached the corner the distance between them was sensibly lessened. \nHypothesis: His short, feeble strides soon left him trailing far behind. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: An older caucasian couple is having their picture taken by a stone statue of a man and woman kissing. \nHypothesis: The young couple are taking pictures of the countryside. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: That's the second time you've made that sort of remark. \nHypothesis: That is the second occurrence of that sort of remark. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Extremely limited exceptions to the authority are established in 31 U.S.C. \nHypothesis: There are only a selected few exceptions. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Three men dancing as a group of people watch. \nHypothesis: three men dancing as a stage \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: The blond boy is riding roller-coaster with his mouth wide open. \nHypothesis: a little boy is riding a roller-coaster \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A boy is running in a spinning metal tunnel in the playground. \nHypothesis: He can carry the tunnel home. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: A young boy dressed in black and green is laying down in a tent outside with items surrounding him. \nHypothesis: A boy lays down in front of a tent \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A woman in a black top and blue skirt is pushing a carriage or cart down a long empty tree-lined road. \nHypothesis: A woman is running with a stroller down a lot \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A lady and a man in a hat watch baseball from the stands. \nHypothesis: Two people, one with a hat, can see baseball from where they are. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Two girls stand in front of two men selling what appears to be concert merchandise while a woman holding a microphone interviews the men behind the merchandise counter. \nHypothesis: people are standing in line at a concert \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Unsurprisingly, golfing is prohibitively expensive. \nHypothesis: It costs $100 to golf just 9 holes! \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A man trying his hardest to climb up a rope. \nHypothesis: The man climbing the rope is escaping a swarm of bed bugs. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: The number eight rollerskater is taking the lead and pulling away from her black and red dressed opponents. \nHypothesis: A rollerskater behind the pack. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Two kids running past a dinosaur in the woods. \nHypothesis: Young people are running outdoors. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Friendly staff. \nHypothesis: The staff is rude to their customers. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: a woman and a child both wearing red outfits walking up a street \nHypothesis: A mother and child walking up a street \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A woman with a pink purse walks down a crowded sidewalk. \nHypothesis: A woman escapes a from a hostile enviroment \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: He had no real answer. \nHypothesis: He had the answer. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: yeah yeah seven percent or something it depends on where you're at some places in Dallas i guess it's like closer to eight and places like in Lewisville it's a lot closer to seven \nHypothesis: In Lewisville it is up around ten or so. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: yes yeah yeah well it it that's right and it \nHypothesis: that isn't correct \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Four women are taking a walk down an icy road. \nHypothesis: The road is dangerous for the four women to try to walk on because it is covered in ice. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A young woman is about to descend the stairs into a metro station. \nHypothesis: A lady is walking to her train \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A man wearing a black t-shirt that says \"Long Live the Dead\" pulls a shopping cart in the street near a NYC yellow taxi cab. \nHypothesis: A man is wearing a clever shirt. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: In fact, the Lions of Delos were made from Naxos marble. \nHypothesis: There are five Lions of Delos, and also two Tigers of Delos. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Case Studies in Science Education. \nHypothesis: The case studies were done by independent organizations. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A guy in a red jacket is snowboarding in midair. \nHypothesis: A guy is doing snowboard tricks \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A young smiling girl is holding a stuffed animal in one hand and a candy apple in the other. \nHypothesis: A young smiling girl is holding a cute stuffed animal in one hand \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Three men dressed in suits and ties clasps their raised hands while standing in front of corporate logos. \nHypothesis: Three men are celebrating a business achievement. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: No, indeed, said Cynthia.  \nHypothesis: No, indeed, said my wife. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A group of men are riding a moving walkway. \nHypothesis: A groups of men at the airport are riding a moving walkway. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Four young girls playing in the water. \nHypothesis: Four girls are swimming. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Man and woman eating a hotdog. \nHypothesis: A man and woman are sharing a hotdog. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Despite huge projected increases in food production, per capita food consumption in South Asia, the Middle East, and the less-developed nations of Africa will scarcely improve or will actually decline below present inadequate levels. \nHypothesis: African nations do not need food to survive.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Family gathered together in a house enjoying each other company. \nHypothesis: A family is sitting together inside a house. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Three women and two men are standing at the foot of a large staircase holding stringed instruments and a clarinet. \nHypothesis: They are going up the stairs. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: In addition, Saracens invaded the Provencal coast from North Africa, and Magyar armies attacked Lor?\u00adraine and Bur?\u00adgun?\u00addy. \nHypothesis: Lorraine and Burgundy were largely unprotected at the time. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: I was deeply impressed by the power and eloquence of the counsel for the defence. \nHypothesis: The counsel for his defence did not impress me in any way. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Here is a picture of people getting drunk at a house party. \nHypothesis: Some people are holding beers in the picture. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Where would he be today without American commercial know-how? \nHypothesis: America is the best nation to adjust to changes. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: The first historical mention of Agra is in 1501, when Sultan Sikandar Lodi made it his capital. \nHypothesis: Agra still exists to this day as a capital. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A man and wife stand at the alter as they get married. \nHypothesis: A man and woman are getting eloped \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Howard Berman of California, an influential Democrat on the House International Relations Committee. \nHypothesis: Howard Berman of California is an inspiring man. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: The young man in the plaid shirt is sitting on a chair that is out in the yard. \nHypothesis: A guy is relaxing outside. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: The Journal put the point succinctly to  Is any publicity good publicity? \nHypothesis: The Journal asked \"Is any publicity good publicity?\" \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Five children playing soccer chase after a ball. \nHypothesis: There are ten total children playing. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: Look here, I said, \"I may be altogether wrong.  \nHypothesis: I couldn't think of any other explanation, however.  \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Climate changes had already had the effect of reducing the amount of forest land; the monks accelerated this process by clearing many more acres in order to make room for ever-growing herds of sheep. \nHypothesis: The effect of reducing the amount of forest land is habitats will be destroyed. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: This provides insight into the important Japanese concept of katachi (form), the rough equivalent of  It isn't what you do; it's the way that you do it.   \nHypothesis: Katachi roughly means, it isn't what you do; it's the way you do it. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A man in khakis sitting at a table with a sign that reads \"poet for hire.\" \nHypothesis: The male is a poet. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: Using teams can also assist in integrating different perspectives, flattening organizational structure, and streamlining operations. \nHypothesis: Organizational structure isn't one of the issues that the team has been known to assist with. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: 8 million in relief in the form of emergency housing. \nHypothesis: No money was spent on emergency housing relief. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: The disorder hardly seemed to exist before the stimulant Ritalin came along. \nHypothesis: The disorder didn't seem to be as common when Ritalin wasn't around.  \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: so i have to find a way to supplement that \nHypothesis: That should be enough by itself. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A man dressed as an angel balances a woman dressed as an angel on his thighs while she hands out papers to people passing on the sidewalk. \nHypothesis: A couple dressed in angel costumes are handing out leaflets on the sidewalk. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: You'll even be able to consult a traditional herbalist to cure your ailments. \nHypothesis: Traditional herbalists are available for you to consult with. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A dark-haired man is smiling while in a storage unit while four other men stand outside the unit watching. \nHypothesis: Four men are watching the storage unit. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A boy wearing a yellow shirt, khaki pants, and blue and yellow shoes is hitting a tennis ball off a wall with a tennis racket. \nHypothesis: A child is getting ready for his junior athletic league tennis tournament. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: New Madeirans traded sugar, the era's dominant luxury item, with Britain and Flanders, and they proved skillful in the art of winemaking. \nHypothesis: Sugar was a luxury item. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: you know and he he was talking about that he was talking about nobody went broke over paying thirty percent \nHypothesis: Most of us thought that he was very naive. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: A young boy giving his brother a piggyback ride \nHypothesis: a boy is giving his brother a piggyback ride in the park \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Two men, one in a blue shirt and one in a green shirt analyze a piece of paper in the middle of a workshop area. \nHypothesis: The coworkers are discussing a work related paper in their shop. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: well i think i got to agree with you there \nHypothesis: I could not agree with you. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A woman wearing a straw hat is sitting among a variety of different foods while holding a drink. \nHypothesis: A woman is standing by the food. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Two men are loading bales of wheat on top of a high structure on a cloudy day. \nHypothesis: The two men are not wearing shirts. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: and then you can add cocoa powder to it to make chocolate or after it's thickened i cook it for a good once it starts boiling i just i cook it for a good seven minutes \nHypothesis: I never bring it to a boil when I make cocoa. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: A group of Amish people, men and women, standing at a fence overlooking a forest and river. \nHypothesis: The Amish group are running through a field. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Two women are getting their pictures taken with a man in his underwear. \nHypothesis: The women are in their underwear. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Three children hold a boy's arms down while another boy in a hat shoots a water gun at him. \nHypothesis: There are five children. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Premise: In addition, Dublin Tourism has devised and signposted three self-guided walking tours of the city, which you can follow using the booklets provided. \nHypothesis: There are several self-guided tours of Dublin for tourists to choose from. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: they take the football serious \nHypothesis: They think football is meaningless. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: Then he gave in. \nHypothesis: He would not give in. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: A woman sitting with a guitar talking to a man sitting with an umbrella. \nHypothesis: It is raining. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: They do not know it themselves.'   \nHypothesis: They have no knowledge of it themselves. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: It takes a deeper fire than most salamanders can stir, Ser Perth. \nHypothesis: Most salamanders can't stir a fire that deep. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: British action wouldn't have mattered. \nHypothesis: It wouldn't have mattered if Britain got involved. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: Three kids in a forest standing on a tree log. \nHypothesis: Children enjoying nature. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: In an apparent classroom setting, a young man in a blue t-shirt has a book on his knee while a woman dressed in black next to him leans in to point out something in the book. \nHypothesis: Both of them are illiterate. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 1
+	},
+	{
+		"instruction": "Can we conclude the following hypothesis from the premise?\nPremise: She has believed that the sleeping draught she administered was perfectly harmless, but there is no doubt that for one terrible moment she must have feared that Mrs. Inglethorp's death lay at her door.  \nHypothesis: She had no doubt that Mrs. Inglethorp's death was not a concern. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Premise: There is. \nHypothesis: There sure is. \nIs this hypothesis entailed by the premise?\nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	},
+	{
+		"instruction": "Tell me whether the hypotheis can be inferred from the premise.\nPremise: As recent events illustrate, trust takes years to gain but can be lost in an instant. \nHypothesis: It takes a long time to build trust, but a short time to lose it. \nOptions: entailment, contradiction, neutral\nAnswer:",
+		"label": 0
+	}
+]
